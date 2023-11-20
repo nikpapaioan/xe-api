@@ -1,5 +1,3 @@
-Sure, I can help you with creating a readme for your code. A readme is a file that provides information about your project, such as its purpose, features, installation, usage, and license. Here is a possible readme for your code:
-
 # XE API
 
 This is an Express app that provides a RESTful API for creating and retrieving property classifieds. The app uses MySQL as the database and cors as a middleware to enable cross-origin requests.
